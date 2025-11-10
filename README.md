@@ -1,4 +1,4 @@
-# Excel Project — Data Analytics
+# Excel Project - Data Analytics
 A project demonstrating my Excel skills, including dashboards, Power Query (ETL), Pivot Tables, slicers, and data modeling.
 
 ---
